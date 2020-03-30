@@ -1,0 +1,60 @@
+body{
+    background-color: #cccccc;
+    font-family: 'roboto',sans-serif;
+    
+}
+.card{
+    width: 375px;
+    height: 750px;
+    background-color:#1e1b26 ;
+    margin: auto;
+    border-radius: 3px;
+    box-shadow: 1px 2px 5px 2px #aaa;
+    text-align: left;
+}
+h1{
+    padding-left: 20px;
+    color:  #e7e7e7;
+    font-family: "montserrat";
+}
+h5{
+    padding-left: 20px;
+    color: #9b9b9b;
+}
+.summary{
+    color:  #e7e7e7;
+    padding-left: 20px;
+    font-family: "montserrat";
+}
+.batman{
+    width: 100%;
+}
+p{
+    text-align: left;
+    padding-left: 20px;
+    color: #9b9b9b;
+}
+.card-image{
+    padding:0px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 100%;
+}
+.cast{
+    text-align: left;
+    padding-left: 20px;
+    color: #e7e7e7;
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    padding-left: 20px;
+    text-align: left;
+    color: #fe4141;
+    border: #fe4141 solid 1px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 7px;
+    margin-right: 10px;
+}
